@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1675991443 source:/home/funiek/Desktop/new_project/main.c
+	<stdlib.h>
+	<time.h>
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+
